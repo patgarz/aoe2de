@@ -6,7 +6,7 @@ None currently published.
 
 ## Projects \& Status
 
-* APM Maps "Multiply" the amount of work in a given match:  
+* Split Attention maps "Multiply" the amount of work in a given match:  
 (STATUS: In development)
   * Generate a "Multiplier" (Difficulty) of 2, 3, or 4 based on the map size
   *  Start with `(Multiplier) * (Town Centers)`
@@ -15,4 +15,4 @@ None currently published.
   *  Result: You have `(Multiplier)` times the normal amount of things to pay attention to, but the general pace of the game continues as normal
 * Civ Switch:  
 (STATUS: Not started)
-  * Allow players to switch civilizations during the match (with associated bonuses)
+  * Allow (or force?) players to switch civilizations during the match (with associated bonuses)

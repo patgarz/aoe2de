@@ -1,3 +1,21 @@
+// TODOs:
+// --Additional Civ bonuses--
+// Some of these may require data mods outside of XS - I don't want to do this? Solutions TBD.
+// * Goth +10*multiplier pop in Imp
+// * All civs +multiplier TCs allowed to build pre-Castle
+// * Cumans +multiplier TCs allowed to build in Feudal
+// * Cuman Mercenaries +multiplier 
+// * Chinese not starting with extra vils on all TCs
+// * Ethiopians (+100F, +100G)*multiplier per age
+// * Atheism (Huns) +100*multiplier years countdown
+// * Paper Money (Vietnamese) *multiplier resources
+// * First Crusade (Sicilians) allow for more max Serjeants
+// --Other--
+// * Alternate build that allows for researching all techs (multiplier) times, with same cost but 1/multiplier effect
+//  - May require a data mod? Needs research. Should finish this build in at least a RC state first.
+// * Relic bonus for Lithuanians - balancing?
+// * General balancing?
+
 int getMultiplier() {
     
     // Map size constants

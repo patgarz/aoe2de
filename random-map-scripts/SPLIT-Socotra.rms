@@ -2,7 +2,7 @@
 
 #include_drs random_map.def 
 
-#includeXS apm.xs
+#includeXS splitattention.xs
 
 <PLAYER_SETUP>
   random_placement 
