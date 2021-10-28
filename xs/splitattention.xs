@@ -11,6 +11,7 @@
 // * Paper Money (Vietnamese) *multiplier resources
 // * First Crusade (Sicilians) allow for more max Serjeants
 // --Other--
+// * 2v2, 3v3, 4v4? options for Large, Gigantic, Ludicrous size maps
 // * Alternate build that allows for researching all techs (multiplier) times, with same cost but 1/multiplier effect
 //  - May require a data mod? Needs research. Should finish this build in at least a RC state first.
 // * Relic bonus for Lithuanians - balancing?
